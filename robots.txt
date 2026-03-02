@@ -1,16 +1,12 @@
-# Robots.txt for montanawana.org and all subdomains
+# Robots.txt for montanawana.org
 # Last Updated: 2026-03-02
 
 # Allow all crawlers to access all content
 User-agent: *
 Allow: /
 
-# Sitemap locations
+# Sitemap location
 Sitemap: https://montanawana.org/sitemap.xml
-Sitemap: https://konsultasi.montanawana.org/sitemap.xml
-Sitemap: https://reklamasi.montanawana.org/sitemap.xml
-Sitemap: https://umkm.montanawana.org/sitemap.xml
-Sitemap: https://profile.montanawana.org/sitemap.xml
 
 # Crawl-delay (optional, for politeness)
 Crawl-delay: 1

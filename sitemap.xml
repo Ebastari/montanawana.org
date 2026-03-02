@@ -30,40 +30,40 @@
     <lastmod>2026-03-02</lastmod>
   </url>
    
-  <!-- Subdomain: Konsultasi -->
+  <!-- Section: Konsultasi -->
   <url>
-    <loc>https://konsultasi.montanawana.org/</loc>
+    <loc>https://montanawana.org/konsultasi/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-03-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="id" href="https://konsultasi.montanawana.org/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://montanawana.org/konsultasi/"/>
   </url>
 
-  <!-- Subdomain: Reklamasi -->
+  <!-- Section: Reklamasi -->
   <url>
-    <loc>https://reklamasi.montanawana.org/</loc>
+    <loc>https://montanawana.org/reklamasi/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-03-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="id" href="https://reklamasi.montanawana.org/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://montanawana.org/reklamasi/"/>
   </url>
 
-  <!-- Subdomain: UMKM -->
+  <!-- Section: UMKM -->
   <url>
-    <loc>https://umkm.montanawana.org/</loc>
+    <loc>https://montanawana.org/umkm/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-03-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="id" href="https://umkm.montanawana.org/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://montanawana.org/umkm/"/>
   </url>
 
-  <!-- Subdomain: Profile -->
+  <!-- Section: Profile -->
   <url>
-    <loc>https://profile.montanawana.org/</loc>
+    <loc>https://montanawana.org/profile/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-03-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="id" href="https://profile.montanawana.org/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://montanawana.org/profile/"/>
   </url>
 
 </urlset>
