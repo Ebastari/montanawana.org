@@ -5,64 +5,57 @@
          xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
          xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
          xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  
+   
   <!-- Main Corporate Website -->
   <url>
     <loc>https://montanawana.org/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <xhtml:link rel="alternate" hreflang="id" href="https://montanawana.org/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://montanawana.org/en/"/>
   </url>
-  
-  <url>
-    <loc>https://montanawana.org/index.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <lastmod>2025-01-15</lastmod>
-  </url>
-  
+   
   <url>
     <loc>https://montanawana.org/privasy-policy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
   </url>
-  
+   
   <!-- Subdomain: Konsultasi -->
   <url>
     <loc>https://konsultasi.montanawana.org/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <xhtml:link rel="alternate" hreflang="id" href="https://konsultasi.montanawana.org/"/>
   </url>
-  
+
   <!-- Subdomain: Reklamasi -->
   <url>
     <loc>https://reklamasi.montanawana.org/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <xhtml:link rel="alternate" hreflang="id" href="https://reklamasi.montanawana.org/"/>
   </url>
-  
+
   <!-- Subdomain: UMKM -->
   <url>
     <loc>https://umkm.montanawana.org/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <xhtml:link rel="alternate" hreflang="id" href="https://umkm.montanawana.org/"/>
   </url>
-  
+
   <!-- Subdomain: Profile -->
   <url>
     <loc>https://profile.montanawana.org/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <xhtml:link rel="alternate" hreflang="id" href="https://profile.montanawana.org/"/>
   </url>
 
