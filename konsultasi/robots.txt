@@ -1,0 +1,8 @@
+# Robots.txt for konsultasi.montanawana.org
+
+User-agent: *
+Allow: /
+
+Sitemap: https://konsultasi.montanawana.org/sitemap.xml
+
+Host: konsultasi.montanawana.org

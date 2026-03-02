@@ -1,0 +1,8 @@
+# Robots.txt for profile.montanawana.org
+
+User-agent: *
+Allow: /
+
+Sitemap: https://profile.montanawana.org/sitemap.xml
+
+Host: profile.montanawana.org

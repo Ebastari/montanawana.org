@@ -1,0 +1,8 @@
+# Robots.txt for reklamasi.montanawana.org
+
+User-agent: *
+Allow: /
+
+Sitemap: https://reklamasi.montanawana.org/sitemap.xml
+
+Host: reklamasi.montanawana.org

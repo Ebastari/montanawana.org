@@ -1,0 +1,54 @@
+# Robots.txt for montanawana.org and all subdomains
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap locations
+Sitemap: https://montanawana.org/sitemap.xml
+Sitemap: https://konsultasi.montanawana.org/sitemap.xml
+Sitemap: https://reklamasi.montanawana.org/sitemap.xml
+Sitemap: https://umkm.montanawana.org/sitemap.xml
+Sitemap: https://profile.montanawana.org/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
+# Block access to sensitive directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /shared/config.json
+
+# Allow access to main pages
+Allow: /index.html
+Allow: /corporate/
+Allow: /konsultasi/
+Allow: /reklamasi/
+Allow: /umkm/
+Allow: /profile/
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Main domain
+User-agent: *
+Disallow:
+Allow: /
+
+# Subdomain-specific rules
+User-agent: *
+Host: montanawana.org
+
+# Additional crawler-specific rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /

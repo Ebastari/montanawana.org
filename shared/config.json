@@ -1,0 +1,63 @@
+{
+  "site": {
+    "name": "PT Montana Wana Teknologi",
+    "description": "Future-Driven Digital Forestry & Technology Solutions di Indonesia",
+    "url": "https://montanawana.org",
+    "logo": "/assets/logo.png",
+    "ogImage": "/assets/og-image.jpg"
+  },
+  "subdomains": {
+    "corporate": {
+      "name": "Corporate Website",
+      "url": "https://montanawana.org",
+      "description": "PT Montana Wana Teknologi - Future-Driven Digital Forestry & Technology Solutions",
+      "keywords": "Smart Forestry, Digital Forestry Indonesia, AI Monitoring, Blockchain Traceability, Carbon Credit",
+      "title": "PT Montana Wana Teknologi | Agung Laksono - CEO & Founder | Digital Forestry & AI Solutions Indonesia"
+    },
+    "konsultasi": {
+      "name": "Forestry Licensing",
+      "url": "https://konsultasi.montanawana.org",
+      "description": "Konsultasi perizinan kehutanan profesional - IPPKH, AMDAL, UKL-UPL, PBPH, dan izin lingkungan lainnya",
+      "keywords": "perizinan kehutanan, IPPKH, AMDAL, UKL-UPL, PBPH, izin tambang, konsultan kehutanan",
+      "title": "Konsultasi Perizinan Kehutanan | IPPKH - AMDAL - PBPH | Montana Wana"
+    },
+    "reklamasi": {
+      "name": "Mine Reclamation",
+      "url": "https://reklamasi.montanawana.org",
+      "description": "Jasa reklamasi tambang dan revegetasi profesional - RKL-RPL, revegetasi pascatambang, rehabilitasi lahan",
+      "keywords": "reklamasi tambang, revegetasi, RKL-RPL, rehabilitasi lahan, pascatambang, environmental recovery",
+      "title": "Reklamasi Tambang & Revegetasi | RKL-RPL | Montana Wana"
+    },
+    "umkm": {
+      "name": "Investment Platform",
+      "url": "https://umkm.montanawana.org",
+      "description": "Platform investasi peluang bisnis UMKM sektor kehutanan dan pertanian berkelanjutan",
+      "keywords": "investasi UMKM, bisnis kehutanan, pertanian berkelanjutan, peluang investasi, green investment",
+      "title": "Platform Investasi UMKM | Bisnis Kehutanan & Pertanian | Montana Wana"
+    },
+    "profile": {
+      "name": "Personal Branding",
+      "url": "https://profile.montanawana.org",
+      "description": "Personal branding Agung Laksono, S.Hut - Ahli Kehutanan & Environmental Technology",
+      "keywords": "personal branding, ahli kehutanan, environmental tech, Agung Laksono, konsultan lingkungan",
+      "title": "Agung Laksono, S.Hut | Ahli Kehutanan & Environmental Technology"
+    }
+  },
+  "contact": {
+    "phone": "+62-811-2222-0044",
+    "email": "info@montanawana.org",
+    "address": {
+      "street": "Jalan Perambaian III Gg. Kestela 1 RT 030 RW 007, Kelurahan Sungai Ulin",
+      "city": "Banjarbaru Utara",
+      "region": "Kalimantan Selatan",
+      "country": "ID",
+      "postalCode": "70711"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/montanawana",
+    "twitter": "https://twitter.com/montanawana",
+    "linkedin": "https://www.linkedin.com/company/montanawana",
+    "facebook": "https://www.facebook.com/montanawana"
+  }
+}

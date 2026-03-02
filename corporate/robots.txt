@@ -1,0 +1,8 @@
+# Robots.txt for montanawana.org (Corporate)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://montanawana.org/sitemap.xml
+
+Host: montanawana.org

@@ -1,0 +1,8 @@
+# Robots.txt for umkm.montanawana.org
+
+User-agent: *
+Allow: /
+
+Sitemap: https://umkm.montanawana.org/sitemap.xml
+
+Host: umkm.montanawana.org
